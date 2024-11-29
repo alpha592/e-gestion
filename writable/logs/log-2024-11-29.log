@@ -1,0 +1,156 @@
+CRITICAL - 2024-11-29 07:10:26 --> ErrorException: Attempt to read property "errno" on bool
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 584.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(584): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "errno" on bool', 'C:\\laragon\\www\\CodeIgniter\\system\\Database\\MySQLi\\Connection.php', 584)
+ 2 APPPATH\Controllers\Home.php(25): CodeIgniter\Database\MySQLi\Connection->error()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CodeIgniter\\public\\index.php')
+CRITICAL - 2024-11-29 07:10:32 --> ErrorException: Attempt to read property "errno" on bool
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 584.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(584): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "errno" on bool', 'C:\\laragon\\www\\CodeIgniter\\system\\Database\\MySQLi\\Connection.php', 584)
+ 2 APPPATH\Controllers\Home.php(25): CodeIgniter\Database\MySQLi\Connection->error()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CodeIgniter\\public\\index.php')
+CRITICAL - 2024-11-29 07:10:33 --> ErrorException: Attempt to read property "errno" on bool
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 584.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(584): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "errno" on bool', 'C:\\laragon\\www\\CodeIgniter\\system\\Database\\MySQLi\\Connection.php', 584)
+ 2 APPPATH\Controllers\Home.php(25): CodeIgniter\Database\MySQLi\Connection->error()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CodeIgniter\\public\\index.php')
+CRITICAL - 2024-11-29 07:10:33 --> ErrorException: Attempt to read property "errno" on bool
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 584.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(584): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "errno" on bool', 'C:\\laragon\\www\\CodeIgniter\\system\\Database\\MySQLi\\Connection.php', 584)
+ 2 APPPATH\Controllers\Home.php(25): CodeIgniter\Database\MySQLi\Connection->error()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CodeIgniter\\public\\index.php')
+CRITICAL - 2024-11-29 07:10:33 --> ErrorException: Attempt to read property "errno" on bool
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 584.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(584): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "errno" on bool', 'C:\\laragon\\www\\CodeIgniter\\system\\Database\\MySQLi\\Connection.php', 584)
+ 2 APPPATH\Controllers\Home.php(25): CodeIgniter\Database\MySQLi\Connection->error()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CodeIgniter\\public\\index.php')
+CRITICAL - 2024-11-29 07:10:33 --> ErrorException: Attempt to read property "errno" on bool
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 584.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(584): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "errno" on bool', 'C:\\laragon\\www\\CodeIgniter\\system\\Database\\MySQLi\\Connection.php', 584)
+ 2 APPPATH\Controllers\Home.php(25): CodeIgniter\Database\MySQLi\Connection->error()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CodeIgniter\\public\\index.php')
+CRITICAL - 2024-11-29 07:10:34 --> ErrorException: Attempt to read property "errno" on bool
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 584.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(584): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "errno" on bool', 'C:\\laragon\\www\\CodeIgniter\\system\\Database\\MySQLi\\Connection.php', 584)
+ 2 APPPATH\Controllers\Home.php(25): CodeIgniter\Database\MySQLi\Connection->error()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CodeIgniter\\public\\index.php')
+CRITICAL - 2024-11-29 07:10:34 --> ErrorException: Attempt to read property "errno" on bool
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 584.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(584): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "errno" on bool', 'C:\\laragon\\www\\CodeIgniter\\system\\Database\\MySQLi\\Connection.php', 584)
+ 2 APPPATH\Controllers\Home.php(25): CodeIgniter\Database\MySQLi\Connection->error()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CodeIgniter\\public\\index.php')
+CRITICAL - 2024-11-29 07:10:34 --> ErrorException: Attempt to read property "errno" on bool
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 584.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(584): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "errno" on bool', 'C:\\laragon\\www\\CodeIgniter\\system\\Database\\MySQLi\\Connection.php', 584)
+ 2 APPPATH\Controllers\Home.php(25): CodeIgniter\Database\MySQLi\Connection->error()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CodeIgniter\\public\\index.php')
+CRITICAL - 2024-11-29 07:10:34 --> ErrorException: Attempt to read property "errno" on bool
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 584.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(584): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "errno" on bool', 'C:\\laragon\\www\\CodeIgniter\\system\\Database\\MySQLi\\Connection.php', 584)
+ 2 APPPATH\Controllers\Home.php(25): CodeIgniter\Database\MySQLi\Connection->error()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CodeIgniter\\public\\index.php')
+CRITICAL - 2024-11-29 07:10:35 --> ErrorException: Attempt to read property "errno" on bool
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 584.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(584): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "errno" on bool', 'C:\\laragon\\www\\CodeIgniter\\system\\Database\\MySQLi\\Connection.php', 584)
+ 2 APPPATH\Controllers\Home.php(25): CodeIgniter\Database\MySQLi\Connection->error()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CodeIgniter\\public\\index.php')
+CRITICAL - 2024-11-29 08:44:17 --> ErrorException: Attempt to read property "errno" on bool
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 584.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(584): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "errno" on bool', 'C:\\laragon\\www\\CodeIgniter\\system\\Database\\MySQLi\\Connection.php', 584)
+ 2 APPPATH\Controllers\Home.php(25): CodeIgniter\Database\MySQLi\Connection->error()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CodeIgniter\\public\\index.php')
+CRITICAL - 2024-11-29 10:10:33 --> ErrorException: Attempt to read property "errno" on bool
+[Method: GET, Route: /]
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 584.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(584): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "errno" on bool', 'C:\\laragon\\www\\CodeIgniter\\system\\Database\\MySQLi\\Connection.php', 584)
+ 2 APPPATH\Controllers\Home.php(25): CodeIgniter\Database\MySQLi\Connection->error()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->index()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\laragon\\www\\CodeIgniter\\public\\index.php')
